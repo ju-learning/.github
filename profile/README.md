@@ -15,7 +15,7 @@
 | 🟥 | 인프런 | 이펙티브 자바 완벽 공략 1부 | 백기선 | [Repository](https://github.com/ju-learning/effective-java-1) |
 | 🟥 | 인프런 | 스프링 시큐리티 | 백기선 | [Repository](https://github.com/ju-learning/baekkiseon-spring-security) |
 | 🟨 | 인프런 | 실전! 스프링 데이터 JPA | 김영한 | [Repository](https://github.com/ju-learning/spring-data-jpa-practical) |
-| 🟥 | 인프런 | 인프런 | 스프링 핵심 원리 - 기본편 | 김영한 | [Repository](https://github.com/ju-learning/spring-core-principle-basic) |
+| 🟥 | 인프런 | 스프링 핵심 원리 - 기본편 | 김영한 | [Repository](https://github.com/ju-learning/spring-core-principle-basic) |
 
 </div>
 
