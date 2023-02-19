@@ -1,12 +1,14 @@
 <div align=center>
 
-📚 `브랜드`는 `퀄리티`의 `꾸준함`으로 `스토리`를 만드는 것
+📌 Follow the best, for the best
 
 </div>
 
 <!--
 
 **Here are some ideas to get you started:**
+
+📚 `브랜드`는 `퀄리티`의 `꾸준함`으로 `스토리`를 만드는 것
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
